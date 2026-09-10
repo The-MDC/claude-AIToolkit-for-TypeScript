@@ -58,7 +58,7 @@
     "google-auth-library": "^9.15.1",
     "image-type": "^5.2.0",
     "mathjs": "14.0.0",
-    "sharp": "^0.33.5",
+    "sharp": "^0.35.4",
     "terminal-image": "^2.0.0",
     "undici": "^7.21.0",
     "valibot": "1.1.0",
