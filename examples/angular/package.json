@@ -14,7 +14,7 @@
   "dependencies": {
     "@ai-sdk/angular": "3.0.0-beta.33",
     "@ai-sdk/openai": "4.0.0-beta.13",
-    "@angular/common": "^20.3.2",
+    "@angular/common": "^20.3.34",
     "@angular/compiler": "^20.3.2",
     "@angular/core": "^20.3.2",
     "@angular/forms": "^20.3.2",
