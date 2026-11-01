@@ -13,7 +13,7 @@
     "@ai-sdk/vue": "4.0.0-beta.33",
     "@ai-sdk/openai": "4.0.0-beta.13",
     "ai": "7.0.0-beta.33",
-    "zod": "3.25.76"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@nuxt/devtools": "1.6.3",
