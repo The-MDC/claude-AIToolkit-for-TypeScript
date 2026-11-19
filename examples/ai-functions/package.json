@@ -54,7 +54,7 @@
     "ai": "workspace:*",
     "arktype": "2.1.28",
     "dotenv": "16.4.5",
-    "effect": "3.18.4",
+    "effect": "3.22.1",
     "google-auth-library": "^9.15.1",
     "image-type": "^5.2.0",
     "mathjs": "14.0.0",
